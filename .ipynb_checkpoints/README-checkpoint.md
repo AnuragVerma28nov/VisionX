@@ -1,0 +1,1 @@
+# VisionX — simple and professional (Real-Time Objetcs Detection)
