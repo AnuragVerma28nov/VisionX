@@ -1,0 +1,1480 @@
+2026-09-01 16:33:25,922 - INFO - Starting webcam detection | Camera=0 | Confidence=0.5
+2026-09-01 16:33:39,946 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,010 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,092 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,157 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,225 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,307 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,376 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,442 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,524 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,592 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,658 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,742 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,807 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,875 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:40,942 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,025 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,106 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,174 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,240 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,306 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,374 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,443 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,524 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,590 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,657 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,724 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,806 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,873 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:41,939 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,006 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,090 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,174 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,240 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,307 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,389 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,459 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,523 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,606 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,671 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,740 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,805 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,873 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:42,938 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,005 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,073 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,140 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,205 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,273 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,339 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,405 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,474 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,538 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,605 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,673 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,739 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,803 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,872 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:43,942 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,005 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:44,072 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:44,171 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,256 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,338 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,405 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,488 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,556 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,620 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,688 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,752 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,820 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:44,903 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:44,971 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:45,036 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:45,104 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:45,186 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,253 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,337 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,420 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,487 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,555 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,621 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,687 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,752 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,819 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,886 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:45,954 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:46,019 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:46,086 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:46,153 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:46,219 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:46,286 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:46,353 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:46,420 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:46,486 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:46,555 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:46,636 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:46,718 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:46,784 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:46,852 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:46,934 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,003 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,069 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,136 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,202 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,269 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,335 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,401 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,468 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,550 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,618 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,683 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,762 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,834 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:47,935 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,017 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,084 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,152 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,215 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,282 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,351 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,417 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,485 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,555 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,651 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,716 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,783 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,851 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:48,916 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:48,983 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:49,051 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:49,114 - INFO - Objects detected: {'tie': 1, 'person': 1}
+2026-09-01 16:33:49,183 - INFO - Objects detected: {'tie': 1, 'person': 1}
+2026-09-01 16:33:49,249 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,316 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,383 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,449 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,516 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,583 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,649 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,714 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,782 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,850 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,914 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:49,982 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:50,046 - INFO - Objects detected: {'person': 1, 'tie': 2}
+2026-09-01 16:33:50,113 - INFO - Objects detected: {'person': 1, 'tie': 2}
+2026-09-01 16:33:50,182 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:50,246 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:50,317 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:50,383 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:50,446 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:50,515 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:50,582 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:50,648 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:50,715 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:50,783 - INFO - Objects detected: {'person': 1, 'tie': 1, 'cell phone': 1}
+2026-09-01 16:33:50,848 - INFO - Objects detected: {'person': 1, 'tie': 1, 'cell phone': 1}
+2026-09-01 16:33:50,916 - INFO - Objects detected: {'person': 1, 'cell phone': 1, 'tie': 1}
+2026-09-01 16:33:50,982 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:51,049 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:51,114 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:51,182 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:51,248 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:51,314 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:51,382 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:51,449 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:51,516 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:51,582 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:51,647 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:51,714 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:51,781 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:51,847 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:51,914 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:51,981 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:52,046 - INFO - Objects detected: {'person': 1, 'donut': 1}
+2026-09-01 16:33:52,131 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:52,397 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:52,597 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:52,664 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:52,862 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:52,928 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:52,996 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,062 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,130 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,196 - INFO - Objects detected: {'person': 1, 'baseball bat': 1}
+2026-09-01 16:33:53,263 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,330 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,396 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,464 - INFO - Objects detected: {'person': 1, 'skateboard': 1}
+2026-09-01 16:33:53,527 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,596 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,664 - INFO - Objects detected: {'person': 1, 'tennis racket': 1}
+2026-09-01 16:33:53,730 - INFO - Objects detected: {'person': 1, 'cell phone': 1}
+2026-09-01 16:33:53,796 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,860 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,929 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:53,995 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,063 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,128 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,195 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,261 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,326 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,394 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,462 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,527 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,595 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,662 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,727 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,795 - INFO - Objects detected: {'tie': 1, 'person': 1}
+2026-09-01 16:33:54,861 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:54,928 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:54,998 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:55,078 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:55,145 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:55,211 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:55,278 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:55,344 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:55,410 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:55,477 - INFO - Objects detected: {'tie': 1, 'person': 1}
+2026-09-01 16:33:55,545 - INFO - Objects detected: {'tie': 1}
+2026-09-01 16:33:55,610 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:55,678 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:55,744 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:55,811 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:55,879 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:55,943 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:56,010 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:56,078 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,143 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,209 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,278 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,343 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,410 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,478 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,545 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,626 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:56,694 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,759 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,825 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,892 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:56,958 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:57,024 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:57,092 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:57,160 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:57,224 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:57,292 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:57,372 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:57,442 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:57,509 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:57,576 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:57,642 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:57,708 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:57,789 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:57,862 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:57,924 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:57,998 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:58,065 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:58,141 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:58,208 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:33:58,315 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:58,458 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:58,542 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:58,605 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:58,675 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:58,740 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:58,819 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:58,878 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:58,958 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,040 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,124 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,208 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,291 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,372 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,458 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,541 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,621 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,706 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,791 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,873 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:33:59,957 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:00,041 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:00,120 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:00,240 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:00,340 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:00,440 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:00,524 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:00,623 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:00,714 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:00,791 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:00,890 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:00,973 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:01,057 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:01,140 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:01,222 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:01,303 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:01,389 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:01,473 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:01,556 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:01,639 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:01,723 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:01,803 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:01,888 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:01,972 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,054 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,136 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,220 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,319 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,404 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,489 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,587 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,672 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,756 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,837 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:02,920 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:03,002 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:03,087 - INFO - Objects detected: {'person': 1, 'tie': 1, 'donut': 1}
+2026-09-01 16:34:03,171 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:03,254 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:03,336 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:03,420 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:03,502 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:03,587 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:03,671 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:03,754 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:03,834 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:03,920 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:04,016 - INFO - Screenshot saved: C:\Users\vanur\OneDrive\Desktop\Real-Time Object Detection — OpenCV\output\screenshots\screenshot_20260901_163403.jpg
+2026-09-01 16:34:04,016 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:04,105 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:04,184 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:04,269 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:04,370 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:04,503 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:04,603 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:04,685 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:04,772 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:04,853 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:04,935 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:05,018 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:05,101 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:05,185 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:05,269 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:05,352 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:05,435 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:05,517 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:05,601 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:05,684 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:05,767 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:05,851 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:05,935 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:06,018 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:06,102 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:06,184 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:06,268 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:06,351 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:06,434 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:06,516 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:06,601 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:06,685 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:06,770 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:06,851 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:06,931 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:07,016 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:07,099 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:07,182 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:07,267 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:07,350 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:07,430 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:07,515 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:07,600 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:07,682 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:07,765 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:07,850 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:07,932 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:08,015 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:08,099 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:08,182 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:08,266 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:08,333 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:08,429 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:08,499 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:08,583 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:08,664 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:08,749 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:08,831 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:08,915 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:08,998 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:09,082 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:09,165 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:09,248 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:09,331 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:09,413 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:09,496 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:09,582 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:09,664 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:09,748 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:09,832 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:09,922 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:10,000 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:10,082 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:10,166 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:10,245 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:10,329 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:10,413 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:10,497 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:10,580 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:10,647 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:10,730 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:10,813 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:10,897 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:10,980 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:11,050 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:11,131 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:11,230 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:11,312 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:11,396 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:11,480 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:11,563 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:11,646 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:11,729 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:11,812 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:11,896 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:11,979 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:12,064 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:12,146 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:12,228 - INFO - Objects detected: {'tie': 1}
+2026-09-01 16:34:12,310 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:12,394 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:12,479 - INFO - Objects detected: {'tie': 1, 'person': 1}
+2026-09-01 16:34:12,560 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:12,646 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:12,728 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:12,811 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:12,883 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:12,979 - INFO - Objects detected: {'tie': 1}
+2026-09-01 16:34:13,059 - INFO - Objects detected: {'tie': 1, 'person': 2}
+2026-09-01 16:34:13,146 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:13,222 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:13,296 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:13,377 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:13,429 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:13,556 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:13,644 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:13,725 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:13,810 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:13,893 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:13,977 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:14,063 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:14,144 - INFO - Objects detected: {'tie': 1, 'person': 1}
+2026-09-01 16:34:14,227 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:14,309 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:14,395 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:14,476 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:14,560 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:14,643 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:14,726 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:14,813 - INFO - Objects detected: {'tie': 2}
+2026-09-01 16:34:14,894 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:14,964 - INFO - Objects detected: {'person': 1, 'donut': 1}
+2026-09-01 16:34:15,061 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,142 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,226 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,310 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,392 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,475 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,559 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,641 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,723 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,808 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,891 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:15,976 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:16,057 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:16,143 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:16,223 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:16,306 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:16,391 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:16,475 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:16,557 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:16,641 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:16,724 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:16,806 - INFO - Objects detected: {'tie': 1, 'person': 1}
+2026-09-01 16:34:16,890 - INFO - Objects detected: {'tie': 1, 'person': 2}
+2026-09-01 16:34:16,973 - INFO - Objects detected: {'tie': 1, 'person': 1}
+2026-09-01 16:34:17,059 - INFO - Objects detected: {'tie': 1, 'person': 1}
+2026-09-01 16:34:17,141 - INFO - Objects detected: {'tie': 1, 'person': 2}
+2026-09-01 16:34:17,224 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:17,306 - INFO - Objects detected: {'tie': 1, 'person': 2}
+2026-09-01 16:34:17,391 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:17,474 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:17,541 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:17,623 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:17,706 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:17,791 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:17,873 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:17,957 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:18,041 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:18,120 - INFO - Objects detected: {'person': 2, 'skateboard': 1}
+2026-09-01 16:34:18,289 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:18,372 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:18,455 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:18,534 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:18,622 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:18,704 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:18,790 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:18,874 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:18,956 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:19,038 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:19,122 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:19,205 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:19,305 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:19,404 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:19,490 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:19,588 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:19,688 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:19,788 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:19,888 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:19,972 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:20,071 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:20,171 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:20,255 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:20,338 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:20,421 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:20,504 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:20,588 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:20,671 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:20,755 - INFO - Objects detected: {'tie': 1, 'person': 2}
+2026-09-01 16:34:20,837 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:20,921 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:21,021 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:21,104 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:21,186 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:21,271 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:21,353 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:21,436 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:21,520 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:21,603 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:21,720 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:21,802 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:21,886 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:21,971 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:22,051 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:22,137 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:22,220 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:22,302 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:22,403 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:22,502 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:22,585 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:22,670 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:22,750 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:22,833 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:22,918 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:23,001 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:23,085 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:23,169 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:23,250 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:23,334 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:23,417 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:23,502 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:23,585 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:23,667 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:23,751 - INFO - Objects detected: {'person': 2, 'tie': 1, 'chair': 1}
+2026-09-01 16:34:23,833 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:23,918 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:24,000 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:24,084 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:24,167 - INFO - Objects detected: {'person': 1, 'chair': 1}
+2026-09-01 16:34:24,249 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:24,332 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:24,417 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:24,500 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:24,581 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:24,667 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:24,750 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:24,832 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:24,916 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:25,000 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:25,084 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:25,168 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:25,251 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:25,327 - INFO - Screenshot saved: C:\Users\vanur\OneDrive\Desktop\Real-Time Object Detection — OpenCV\output\screenshots\screenshot_20260901_163425.jpg
+2026-09-01 16:34:25,327 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:25,408 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:25,499 - INFO - Objects detected: {'person': 3}
+2026-09-01 16:34:25,582 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:25,668 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:25,746 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:25,833 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:25,915 - INFO - Objects detected: {'person': 3}
+2026-09-01 16:34:25,998 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:26,082 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:26,167 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:26,249 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:26,332 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-01 16:34:26,416 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:26,498 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:26,581 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:26,665 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:26,750 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:26,829 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:26,914 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:26,998 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:27,082 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:27,165 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:27,249 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:27,330 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:27,412 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:27,497 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:27,582 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:27,665 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:27,748 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:27,834 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:27,916 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-01 16:34:28,003 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,097 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,195 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,274 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,369 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,464 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,543 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,633 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,714 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,796 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,891 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:28,980 - INFO - Objects detected: {'person': 2}
+2026-09-01 16:34:29,065 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:29,174 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:29,265 - INFO - Objects detected: {'person': 1, 'dining table': 1}
+2026-09-01 16:34:29,946 - INFO - Objects detected: {'person': 1}
+2026-09-01 16:34:30,379 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-09 10:50:30,758 - INFO - Starting webcam detection | Camera=0 | Confidence=0.5
+2026-09-09 10:50:33,081 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:50:33,200 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:33,297 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:33,373 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:33,473 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:33,556 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:33,646 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:33,740 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:33,814 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:33,897 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:33,987 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:34,072 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:34,154 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:34,238 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:34,332 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:34,414 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:34,488 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:34,570 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:34,656 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:34,739 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:34,814 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:34,896 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:34,980 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:35,063 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:35,146 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:35,228 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:35,314 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:35,397 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:35,472 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:35,555 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:35,637 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:35,730 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:35,805 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:35,882 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:35,985 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:36,068 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:36,161 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:36,262 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:36,364 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:36,453 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:36,544 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:50:36,637 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:50:36,724 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:50:36,812 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:50:36,896 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:36,979 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:50:37,078 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:50:37,193 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:50:37,311 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:50:37,441 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:50:37,541 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:50:37,617 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:50:37,708 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:50:37,794 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:50:37,878 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:37,969 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:50:38,051 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:38,135 - INFO - Objects detected: {'person': 2, 'laptop': 1}
+2026-09-09 10:50:38,217 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:50:38,294 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:38,379 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:38,459 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:38,550 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:38,649 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:38,742 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:38,832 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:38,923 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:38,994 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:39,077 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:39,167 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:50:39,250 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:50:39,334 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:50:39,434 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:50:39,525 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:39,609 - INFO - Objects detected: {'person': 2, 'laptop': 1}
+2026-09-09 10:50:39,693 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:39,767 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:50:39,850 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:39,933 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:40,008 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:40,093 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:40,173 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:40,240 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:40,324 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:40,407 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:40,483 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:40,574 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:40,664 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:40,780 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:40,865 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:50:40,959 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:41,042 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:41,126 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:41,216 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:41,305 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:41,387 - INFO - Objects detected: {'person': 3, 'tie': 1, 'laptop': 1}
+2026-09-09 10:50:41,486 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:50:41,569 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:41,652 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:41,741 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:41,840 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:41,916 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:41,993 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:42,077 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:42,139 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:42,224 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:42,315 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:42,713 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:42,878 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:42,970 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:43,063 - INFO - Objects detected: {'person': 4, 'tie': 1, 'chair': 1}
+2026-09-09 10:50:43,146 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:43,238 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:43,329 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:43,422 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:43,513 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:43,589 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:43,679 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:43,763 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1, 'chair': 1}
+2026-09-09 10:50:43,844 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'chair': 1}
+2026-09-09 10:50:43,946 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:44,029 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:50:44,104 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:44,189 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:44,272 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:50:44,361 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:44,462 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:44,529 - INFO - Objects detected: {'person': 4, 'tie': 1, 'laptop': 1}
+2026-09-09 10:50:44,630 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:44,715 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:44,788 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:44,871 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:44,962 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:45,036 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:45,118 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:45,204 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:45,286 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:45,377 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:45,469 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:45,554 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:50:45,632 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:50:45,712 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:45,787 - INFO - Objects detected: {'person': 6, 'tie': 1}
+2026-09-09 10:50:45,860 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:45,958 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:46,045 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:46,128 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:46,244 - INFO - Objects detected: {'person': 5, 'tie': 2, 'chair': 1}
+2026-09-09 10:50:46,326 - INFO - Objects detected: {'person': 6, 'tie': 2, 'chair': 1}
+2026-09-09 10:50:46,403 - INFO - Objects detected: {'person': 5, 'tie': 2, 'laptop': 1}
+2026-09-09 10:50:46,486 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:50:46,561 - INFO - Objects detected: {'person': 7, 'laptop': 1}
+2026-09-09 10:50:46,643 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:46,730 - INFO - Objects detected: {'person': 6, 'tie': 2, 'laptop': 1}
+2026-09-09 10:50:46,811 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:50:46,901 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:50:46,984 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:47,065 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:50:47,143 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:47,226 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:47,316 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:47,395 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:47,473 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:47,558 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:47,634 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:50:47,709 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:47,794 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:47,872 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:50:47,954 - INFO - Objects detected: {'person': 7}
+2026-09-09 10:50:48,042 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:50:48,117 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:50:48,200 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:50:48,282 - INFO - Objects detected: {'person': 6, 'tie': 1}
+2026-09-09 10:50:48,366 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:50:48,449 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:50:48,534 - INFO - Objects detected: {'person': 5, 'chair': 1}
+2026-09-09 10:50:48,617 - INFO - Objects detected: {'person': 6, 'chair': 1}
+2026-09-09 10:50:48,700 - INFO - Objects detected: {'person': 7}
+2026-09-09 10:50:48,998 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:50:49,218 - INFO - Objects detected: {'person': 7, 'tie': 1}
+2026-09-09 10:50:49,376 - INFO - Objects detected: {'person': 6, 'tie': 1}
+2026-09-09 10:50:49,542 - INFO - Objects detected: {'person': 6, 'tie': 1}
+2026-09-09 10:50:49,698 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:50:49,858 - INFO - Objects detected: {'person': 6, 'tie': 1, 'laptop': 1}
+2026-09-09 10:50:50,016 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:50,166 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:50,316 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:50,498 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:50,666 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:50:50,816 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:50:50,974 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:51,129 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:51,288 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:51,440 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:51,582 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:51,764 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:51,906 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:52,071 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:52,230 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'chair': 1}
+2026-09-09 10:50:52,397 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:52,547 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:52,702 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:52,856 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:53,013 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:53,154 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:50:53,313 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:50:53,471 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:53,620 - INFO - Objects detected: {'person': 5, 'laptop': 2, 'tie': 1}
+2026-09-09 10:50:53,770 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:53,920 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:54,065 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:50:54,212 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:54,370 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:54,512 - INFO - Objects detected: {'person': 3, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:54,670 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:54,828 - INFO - Objects detected: {'laptop': 1, 'person': 4, 'tie': 1}
+2026-09-09 10:50:54,985 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:55,144 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:55,295 - INFO - Objects detected: {'person': 7, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:55,449 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:55,611 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:55,765 - INFO - Objects detected: {'person': 5, 'laptop': 2, 'tie': 1}
+2026-09-09 10:50:55,926 - INFO - Objects detected: {'person': 5, 'laptop': 2, 'tie': 1}
+2026-09-09 10:50:56,092 - INFO - Objects detected: {'person': 5, 'laptop': 2}
+2026-09-09 10:50:56,253 - INFO - Objects detected: {'person': 5, 'laptop': 2, 'tie': 1}
+2026-09-09 10:50:56,346 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:56,433 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:56,519 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:56,609 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:56,686 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:56,776 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:56,852 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:56,926 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:57,009 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:50:57,142 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:57,223 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:57,308 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:57,398 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:57,477 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:57,553 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:57,628 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:57,709 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:57,786 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:57,866 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:57,957 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:58,040 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:50:58,121 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:58,201 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:58,291 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:58,370 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:58,443 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:58,532 - INFO - Objects detected: {'person': 6, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:58,606 - INFO - Objects detected: {'person': 5, 'laptop': 2}
+2026-09-09 10:50:58,690 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:58,775 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:50:58,858 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:50:58,949 - INFO - Objects detected: {'person': 3, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:59,040 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:50:59,123 - INFO - Objects detected: {'person': 3, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:59,190 - INFO - Objects detected: {'person': 3, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:59,280 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:50:59,577 - INFO - Objects detected: {'person': 4, 'laptop': 2, 'tie': 1}
+2026-09-09 10:50:59,716 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:59,816 - INFO - Objects detected: {'person': 4, 'laptop': 2, 'tie': 1}
+2026-09-09 10:50:59,900 - INFO - Objects detected: {'person': 3, 'laptop': 1, 'tie': 1}
+2026-09-09 10:50:59,974 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:00,057 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:00,151 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:51:00,241 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:00,334 - INFO - Objects detected: {'person': 3, 'laptop': 1, 'tie': 1}
+2026-09-09 10:51:00,420 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:00,547 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:00,655 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:00,756 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:00,852 - INFO - Objects detected: {'person': 3, 'laptop': 1, 'tie': 1}
+2026-09-09 10:51:00,954 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:01,084 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:01,215 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:01,353 - INFO - Objects detected: {'person': 3, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:01,492 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:01,637 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:01,775 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:01,923 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:02,064 - INFO - Objects detected: {'person': 2, 'laptop': 1}
+2026-09-09 10:51:02,208 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:02,374 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:02,515 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:02,659 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:02,792 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:51:02,896 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:03,020 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:51:03,134 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:51:03,233 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:51:03,340 - INFO - Objects detected: {'person': 4, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:03,427 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:51:03,518 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:03,619 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:51:03,723 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 2}
+2026-09-09 10:51:03,830 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:03,974 - INFO - Objects detected: {'person': 4, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:04,050 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:04,150 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:04,245 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:04,339 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:51:04,431 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:04,520 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:04,617 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:04,708 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:04,814 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:04,912 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:51:05,010 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:05,103 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:05,208 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:05,330 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:05,430 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:05,527 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:05,632 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:05,725 - INFO - Objects detected: {'person': 4, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:05,807 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:05,908 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:06,012 - INFO - Objects detected: {'person': 3, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:06,341 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:06,456 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:06,548 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:06,687 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:06,785 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:06,883 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:06,989 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:07,084 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:07,165 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:07,257 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:07,339 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:07,423 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:07,508 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:07,615 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:07,716 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:07,800 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:07,886 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:07,971 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:08,067 - INFO - Objects detected: {'person': 6, 'tie': 1}
+2026-09-09 10:51:08,167 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:08,250 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:08,339 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:08,431 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:08,532 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:08,614 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:08,712 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:08,816 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:08,899 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:08,996 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:09,083 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:09,165 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:09,247 - INFO - Objects detected: {'person': 6, 'tie': 1}
+2026-09-09 10:51:09,339 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:09,430 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:09,529 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:09,770 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:09,908 - INFO - Objects detected: {'person': 4, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:10,024 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:10,114 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:10,229 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:10,329 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:10,430 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:10,518 - INFO - Objects detected: {'person': 6, 'tie': 1}
+2026-09-09 10:51:10,611 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:10,702 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:10,796 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:10,894 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:10,986 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:11,081 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:11,171 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:11,254 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:11,346 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:11,434 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:11,522 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:11,611 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:11,706 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:11,804 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:11,930 - INFO - Objects detected: {'person': 3, 'chair': 1}
+2026-09-09 10:51:12,021 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:12,160 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:12,259 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:12,365 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:12,457 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:12,568 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:12,646 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:12,736 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:12,831 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:12,919 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:13,020 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:13,112 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:13,209 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:13,295 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:13,387 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:13,478 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:13,568 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:13,667 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:13,750 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:13,837 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:13,932 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,031 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,118 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,218 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,308 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,393 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,495 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,578 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,668 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,766 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,878 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:14,967 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:15,058 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:15,149 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:15,249 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:15,348 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:15,447 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:15,542 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:15,640 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:15,741 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:15,840 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:15,924 - INFO - Objects detected: {'person': 2, 'cell phone': 1}
+2026-09-09 10:51:16,016 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:16,101 - INFO - Objects detected: {'laptop': 1, 'person': 4}
+2026-09-09 10:51:16,233 - INFO - Objects detected: {'person': 2, 'cell phone': 1}
+2026-09-09 10:51:16,332 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:16,432 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:16,532 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:16,632 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:16,723 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:16,820 - INFO - Objects detected: {'person': 1, 'laptop': 1}
+2026-09-09 10:51:16,916 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:17,007 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:17,105 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:17,324 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:17,607 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:17,706 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:17,805 - INFO - Objects detected: {'person': 1, 'laptop': 1}
+2026-09-09 10:51:17,891 - INFO - Objects detected: {'laptop': 1}
+2026-09-09 10:51:18,080 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:18,162 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:18,263 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:18,354 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:18,447 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:18,548 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:18,635 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:18,742 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:18,847 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:18,946 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:19,030 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:19,120 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:19,212 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:19,290 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:19,386 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:19,476 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:19,563 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:19,654 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:19,748 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:19,837 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:19,919 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:20,021 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:20,103 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:20,189 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:20,312 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:20,405 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:20,504 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:20,588 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:20,686 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:51:20,778 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:20,861 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:20,945 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:21,037 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:21,119 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:21,216 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:21,304 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:21,387 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:21,469 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:21,553 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:21,687 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:21,786 - INFO - Objects detected: {'person': 1, 'laptop': 1}
+2026-09-09 10:51:21,870 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:21,957 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:22,052 - INFO - Objects detected: {'person': 1, 'tie': 1}
+2026-09-09 10:51:22,134 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-09 10:51:22,220 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-09 10:51:22,301 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-09 10:51:22,376 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:22,468 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:22,559 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:22,643 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:22,730 - INFO - Objects detected: {'person': 5, 'laptop': 1, 'tie': 1}
+2026-09-09 10:51:22,819 - INFO - Objects detected: {'person': 5, 'tie': 2, 'laptop': 1}
+2026-09-09 10:51:22,901 - INFO - Objects detected: {'person': 4, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:22,985 - INFO - Objects detected: {'person': 4, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:23,076 - INFO - Objects detected: {'person': 4, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:23,159 - INFO - Objects detected: {'person': 4, 'laptop': 1, 'tie': 1}
+2026-09-09 10:51:23,251 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:23,333 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:23,453 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:23,557 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:51:23,635 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:51:23,733 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:51:23,826 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:23,925 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:24,019 - INFO - Objects detected: {'person': 3, 'laptop': 1}
+2026-09-09 10:51:24,100 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:24,174 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:24,272 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:24,418 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:24,501 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:24,600 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:24,674 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:24,757 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:24,842 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:24,935 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:25,017 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:25,108 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:25,199 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:25,283 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:25,372 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:25,472 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:25,556 - INFO - Objects detected: {'person': 5, 'tie': 2}
+2026-09-09 10:51:25,648 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:25,732 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:25,814 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:25,914 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:26,012 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:26,099 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:26,183 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:26,272 - INFO - Objects detected: {'person': 6, 'tie': 1}
+2026-09-09 10:51:26,371 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:26,455 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:26,547 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:26,640 - INFO - Objects detected: {'person': 6, 'tie': 1}
+2026-09-09 10:51:26,732 - INFO - Objects detected: {'person': 6, 'tie': 1}
+2026-09-09 10:51:26,832 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:26,925 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:27,015 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:27,146 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:27,238 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:27,322 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:51:27,412 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:27,495 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:27,582 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:27,671 - INFO - Objects detected: {'person': 7, 'laptop': 1}
+2026-09-09 10:51:27,755 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:51:27,847 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:27,937 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:28,023 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:28,114 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:28,191 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:28,281 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:28,370 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:28,497 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:28,581 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:28,670 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:28,763 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:28,845 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:28,927 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:29,012 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:29,096 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:29,178 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:29,269 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:29,360 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:29,450 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:29,545 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:29,636 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:29,726 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:29,864 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:29,945 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:30,035 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:30,128 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:30,226 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:30,311 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:30,411 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:30,519 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:30,645 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:30,767 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:31,012 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:31,135 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:31,236 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:31,326 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:31,425 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:31,510 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:31,609 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:31,794 - INFO - Objects detected: {'dog': 1}
+2026-09-09 10:51:31,883 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:31,967 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:32,066 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:32,150 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:32,233 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:32,321 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:32,584 - INFO - Objects detected: {'donut': 1}
+2026-09-09 10:51:33,622 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:33,807 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:33,953 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:34,049 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:34,140 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:34,237 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:34,328 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:34,424 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:34,507 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:34,591 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:34,680 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:34,773 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:34,863 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:34,940 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:35,032 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:35,122 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:35,217 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:35,324 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:35,406 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:35,481 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:35,579 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:35,662 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:35,747 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:35,837 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:35,923 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:36,021 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:36,091 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:36,181 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:36,279 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:36,363 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:36,454 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:36,547 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:36,675 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:36,754 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:36,853 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:36,945 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:37,029 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:37,116 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:37,206 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:37,290 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:37,379 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:37,478 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:37,577 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:37,663 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:37,747 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:37,847 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:37,929 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:38,032 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:38,117 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:38,205 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:38,301 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:38,388 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:38,470 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:38,568 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:38,669 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:38,752 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:38,844 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:38,934 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:39,014 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:39,103 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:39,195 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:39,277 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:39,402 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:39,502 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:39,596 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:39,686 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:39,785 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:39,877 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:39,958 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:40,052 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:40,152 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:40,240 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:40,336 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:40,427 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:40,519 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:40,617 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:40,762 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:40,860 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:40,943 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:41,042 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:41,141 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:41,234 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:41,332 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:41,412 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:41,501 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:41,584 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:41,676 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:41,759 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:41,842 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:41,933 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:42,023 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:42,133 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:42,224 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:42,309 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:42,399 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:42,485 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:42,590 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:42,674 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:42,771 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:42,857 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:42,942 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:43,033 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:43,131 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:43,230 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:43,315 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:43,400 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:43,500 - INFO - Objects detected: {'person': 4, 'tie': 1, 'remote': 1}
+2026-09-09 10:51:43,582 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:43,673 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:43,772 - INFO - Objects detected: {'person': 3, 'remote': 1, 'tie': 1}
+2026-09-09 10:51:43,867 - INFO - Objects detected: {'person': 4, 'remote': 1}
+2026-09-09 10:51:43,955 - INFO - Objects detected: {'person': 3, 'remote': 1, 'tie': 1}
+2026-09-09 10:51:44,047 - INFO - Objects detected: {'person': 3, 'remote': 1, 'tie': 1}
+2026-09-09 10:51:44,124 - INFO - Objects detected: {'person': 3, 'remote': 1}
+2026-09-09 10:51:44,213 - INFO - Objects detected: {'person': 3, 'remote': 1}
+2026-09-09 10:51:44,299 - INFO - Objects detected: {'person': 3, 'remote': 1}
+2026-09-09 10:51:44,380 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:44,471 - INFO - Objects detected: {'person': 4, 'remote': 1, 'tie': 1}
+2026-09-09 10:51:44,555 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:44,639 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:44,730 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:44,839 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:44,925 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:45,015 - INFO - Objects detected: {'person': 3, 'tie': 2}
+2026-09-09 10:51:45,098 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:45,198 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:45,287 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:45,382 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:45,470 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:45,571 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:45,662 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:45,748 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:45,837 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:45,921 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:46,015 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:46,112 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:46,213 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:46,297 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:46,381 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:46,470 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:46,553 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:46,654 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:46,741 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:46,840 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:46,929 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:47,012 - INFO - Objects detected: {'person': 3, 'tie': 1, 'cell phone': 1}
+2026-09-09 10:51:47,113 - INFO - Objects detected: {'person': 3, 'cell phone': 1, 'tie': 1}
+2026-09-09 10:51:47,196 - INFO - Objects detected: {'person': 3, 'tie': 1, 'cell phone': 1}
+2026-09-09 10:51:47,280 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:47,369 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:47,468 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:47,585 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:47,662 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:47,759 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-09 10:51:47,852 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:47,936 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:48,028 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:48,119 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:48,203 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:48,295 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:48,395 - INFO - Objects detected: {'person': 2, 'tie': 1, 'cell phone': 1}
+2026-09-09 10:51:48,478 - INFO - Objects detected: {'person': 3, 'tie': 1, 'cell phone': 1}
+2026-09-09 10:51:48,569 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:48,660 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:48,751 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:48,840 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-09 10:51:48,958 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:49,050 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:49,147 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:49,227 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:49,310 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:49,394 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:49,494 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:49,588 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-09 10:51:49,673 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:49,763 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:49,859 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:49,950 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:50,040 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:50,126 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:50,211 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:50,329 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:50,410 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:50,509 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:50,590 - INFO - Objects detected: {'person': 3, 'remote': 1}
+2026-09-09 10:51:50,679 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:50,765 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:50,864 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:50,963 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:51,075 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:51,180 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:51,281 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:51,375 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:51,480 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:51,557 - INFO - Objects detected: {'person': 2}
+2026-09-09 10:51:51,688 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:51,780 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:51,873 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:51,948 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:52,032 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:52,123 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:52,206 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:52,306 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:52,389 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:52,480 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:52,573 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:52,665 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:52,755 - INFO - Objects detected: {'person': 5, 'tie': 2}
+2026-09-09 10:51:52,862 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:52,947 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:53,060 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:53,148 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:53,247 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:53,335 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:53,423 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:53,517 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:53,607 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:53,704 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:53,804 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:53,903 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:53,986 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:54,078 - INFO - Objects detected: {'person': 6}
+2026-09-09 10:51:54,163 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:54,248 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:54,338 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:54,437 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:54,523 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:54,622 - INFO - Objects detected: {'person': 5, 'tie': 1}
+2026-09-09 10:51:54,721 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:54,806 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:54,892 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:54,974 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:55,061 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:55,169 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:55,279 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:55,379 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:55,470 - INFO - Objects detected: {'person': 1}
+2026-09-09 10:51:55,570 - INFO - Objects detected: {'person': 2, 'tie': 1}
+2026-09-09 10:51:55,670 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:55,785 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:55,889 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:55,986 - INFO - Objects detected: {'person': 3, 'tie': 1}
+2026-09-09 10:51:56,101 - INFO - Objects detected: {'person': 3}
+2026-09-09 10:51:56,324 - INFO - Objects detected: {'person': 4}
+2026-09-09 10:51:56,471 - INFO - Objects detected: {'person': 4, 'tie': 1}
+2026-09-09 10:51:56,609 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:56,762 - INFO - Objects detected: {'person': 7}
+2026-09-09 10:51:56,905 - INFO - Objects detected: {'person': 5}
+2026-09-09 10:51:57,046 - INFO - Objects detected: {'person': 5, 'tie': 1, 'laptop': 1}
+2026-09-09 10:51:57,184 - INFO - Objects detected: {'person': 5, 'laptop': 1}
+2026-09-09 10:51:57,326 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:57,460 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:57,604 - INFO - Objects detected: {'person': 4, 'laptop': 1}
+2026-09-09 10:51:57,737 - INFO - Objects detected: {'laptop': 1, 'person': 5}
+2026-09-09 10:51:57,879 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:51:58,020 - INFO - Objects detected: {'person': 6, 'laptop': 1}
+2026-09-09 10:51:58,158 - INFO - Objects detected: {'laptop': 1, 'person': 5, 'tie': 1}
